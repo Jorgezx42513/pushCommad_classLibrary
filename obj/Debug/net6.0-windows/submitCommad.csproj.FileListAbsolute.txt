@@ -1,0 +1,12 @@
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\bin\Debug\net6.0-windows\submitCommad.deps.json
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\bin\Debug\net6.0-windows\submitCommad.dll
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\bin\Debug\net6.0-windows\submitCommad.pdb
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\submitCommad.csproj.AssemblyReference.cache
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\submitCommad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\submitCommad.AssemblyInfoInputs.cache
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\submitCommad.AssemblyInfo.cs
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\submitCommad.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\submitCommad.dll
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\refint\submitCommad.dll
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\submitCommad.pdb
+C:\Users\jorgi\source\repos\submitCommad\submitCommad\obj\Debug\net6.0-windows\ref\submitCommad.dll
